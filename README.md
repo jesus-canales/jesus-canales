@@ -1,4 +1,3 @@
-## Hi👋 My name is Jesús Canales 
 <h1 align="center">Hi 👋, I'm Jesús Canales</h1>
 <h3 align="center">A software technology enthusiast who is always looking to learn and share knowledge.</h3>
 <!--
