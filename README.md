@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi👋 My name is Jesús Canales 
+<h1 align="center">Hi 👋, I'm Jesús Canales</h1>
+<h3 align="center">A software technology enthusiast who is always looking to learn and share knowledge.</h3>
 <!--
 **jesus-canales/jesus-canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
