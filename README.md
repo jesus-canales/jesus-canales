@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesús Canales</h1>
-<h2 align="center">LEARN - TEACH - INNOVATE</h2>
-<h4 align="center">Building the future, one line of code at a time.</h4>
+<h1 align="center">LEARN - TEACH - INNOVATE</h1>
+<h3 align="center">Building the future, one line of code at a time.</h3>
 
 <!--
 **jesus-canales/jesus-canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
