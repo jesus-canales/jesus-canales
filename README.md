@@ -2,8 +2,8 @@
 <h3 align="center">LEARN - TEACH - INNOVATE</h3>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
-🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.
-💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.
+<p>🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</p>
+<p>💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</p>
 
 <!--
 **jesus-canales/jesus-canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
