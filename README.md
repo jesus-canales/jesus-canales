@@ -3,8 +3,8 @@
 <h3 align="center">Building the future, one line of code at a time.</h3>
 <br>
 <h4>🔥 Sobre mí</h4>
-<p>🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</p>
-<p>💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</p>
+<br>🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</br>
+<br>💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</br>
 
 <!--
 **jesus-canales/jesus-canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
