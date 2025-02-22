@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jesús Canales</h1>
-<h2 align="center">LEARN - TEACH - INNOVATE</h2>
+<h3 align="center">LEARN - TEACH - INNOVATE</h3>
 <h3 align="center">Building the future, one line of code at a time.</h3>
 
 <!--
