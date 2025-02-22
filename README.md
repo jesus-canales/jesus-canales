@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jesús Canales</h1>
 <h3 align="center">LEARN - TEACH - INNOVATE</h3>
 <h3 align="center">Building the future, one line of code at a time.</h3>
-<br>
 <h4>🔥 Sobre mí</h4>
 🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</br>
 💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</br>
