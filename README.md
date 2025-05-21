@@ -4,6 +4,7 @@
 <h4>🔥 Sobre mí</h4>
 🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</br>
 💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</br>  
+</br>  
 
 ![Contador de visitas](https://komarev.com/ghpvc/?username=teach-jesus-canales&color=blue)
 <!--
