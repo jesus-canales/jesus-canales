@@ -3,7 +3,8 @@
 <h3 align="center">Building the future, one line of code at a time.</h3>
 <h4>🔥 Sobre mí</h4>
 🎓 Especialista en bases de datos, desarrollo de software y educación tecnológica.</br>
-💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</br>
+💡 Aprender, enseñar e innovar son los pilares que guían mi camino en la tecnología y la educación.</br>  
+
 ![Contador de visitas](https://komarev.com/ghpvc/?username=teach-jesus-canales&color=blue)
 <!--
 **jesus-canales/jesus-canales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
